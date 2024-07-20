@@ -37,9 +37,10 @@ Welcome to my GitHub profile! I'm a passionate developer constantly exploring ne
 -->
 
 ## 📊 GitHub Stats
-
-![QQQomputer's GitHub stats](https://github-readme-stats.vercel.app/api?username=QQQomputer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QQQomputer&show_icons=true&theme=radical)
+<div align=center>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=QQQomputer&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QQQomputer&show_icons=true&theme=radical"/>
+</div>
 
 ## 🌟 Interested in
 
@@ -65,10 +66,14 @@ Here are some of my top projects:
 - [Twitter](https://twitter.com/yourprofile)
  -->
  
-[<img src="https://img.shields.io/badge/tistory-D77310?style=for-the-badge&logo=tistory&logoColor=white"/>](https://qomputer.tistory.com/)
-
+<p align="center">
+  <a href="https://qomputer.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-D77310?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory">
+  </a>
+</p>
+<p align="center">
 Let's connect and collaborate on exciting projects!
-
+</p>
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQQQomputer%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
 </p>
